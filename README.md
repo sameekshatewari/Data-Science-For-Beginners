@@ -1,4 +1,4 @@
-# Data Science for Beginners - A Curriculum
+# Data Science for Beginners - A Curriculum I am in develop
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=344191198)
 
@@ -255,5 +255,12 @@ If you get stuck or have any questions about building AI apps. Join fellow learn
 If you have product feedback or errors while building visit:
 
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
-#   D a t a - S c i e n c e - F o r - B e g i n n e r s  
+#   D a t a - S c i e n c e - F o r - B e g i n n e r s 
+ 
+ #   D a t a - S c i e n c e - F o r - B e g i n n e r s   -   I   a m   i n   d e v e l o p   b r a n c h   
+ 
+ #   D a t a - S c i e n c e - F o r - B e g i n n e r s   -   I   a m   i n   d e v e l o p   b r a n c h   
+ 
+ #   D a t a - S c i e n c e - F o r - B e g i n n e r s   -   I   a m   i n   d e v e l o p   b r a n c h   
+ 
  
